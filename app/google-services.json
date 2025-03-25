@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205648263537",
+    "project_id": "aditya-ffa08",
+    "storage_bucket": "aditya-ffa08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205648263537:android:d2c934de360461c9f1ded0",
+        "android_client_info": {
+          "package_name": "com.example.aditya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVAgyVubl_oqf_7UV1CGbNfai_DnllMf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
